@@ -1,0 +1,11 @@
+{
+    "name": "dnd1/fullby-wp-theme",
+    "description": "Wordpress theme fork",
+    "authors": [
+        {
+            "name": "Daniel Rodriguez del Villar Trimarchi",
+            "email": "daniel@dnd1.com"
+        }
+    ],
+    "require": {}
+}
