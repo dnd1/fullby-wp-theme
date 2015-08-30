@@ -233,9 +233,7 @@ function my_custom_menu_page(){ ?>
 </div>
 
 <?php } ?>
-
 <?php
-// Custom Stuff
 
 function custom_excerpt_length( $length ) {
   return 15;
